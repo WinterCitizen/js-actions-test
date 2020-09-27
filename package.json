@@ -1,0 +1,20 @@
+{
+  "name": "js-actions-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WinterCitizen/js-actions-test.git",
+  "author": "Daniil Fedyaev <daniil.fedyaev@1win.pro>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
